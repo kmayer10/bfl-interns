@@ -8,4 +8,9 @@ Sample repository for BFL Interns Session
 - revert
 - merge
 - log
-- 
+
+##### Common Remote GIT Commands
+- push
+- pull
+- clone
+- fetch
