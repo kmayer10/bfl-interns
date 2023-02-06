@@ -5,3 +5,4 @@ date
 echo "[INFO] Added this change for manual trigger"
 echo "[INFO] Added this change for POLL SCM Trigger"
 echo "[INFO] Added this change for GITHUB WEBHOOK trigger"
+echo "Added the change"
